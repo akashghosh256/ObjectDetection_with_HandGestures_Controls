@@ -19,7 +19,7 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 
 1. Clone the repository or download the main script files.
 2. Install the required dependencies as mentioned above.
-3. Repository also constains various folders which divides the project into different   parts, such as Object Detection, Hand Tracking. You can run them individually to see how they work.But to run the main project, you need to open the `Main(Final)` folder and run the script from there.
+3. The repository also contains various folders that divide the project into different   parts, such as Object Detection and hand Tracking. You can run them individually to see how they work. But to run the main project, you need to open the `Main(Final)` folder and run the script from there.
 4. Run the script using `python ObjectWithGesture(Main).py`.
 
 ## Features
@@ -38,7 +38,7 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 
 - If you encounter any issues with audio playback or hand tracking, ensure that your webcam and audio devices are properly connected and configured.
 - Make sure that the necessary dependencies are installed, as mentioned in the "Installation" section.
-- Make Sure you have Python 3.7 or above installed.
-- Make sure you have the latest version of pip installed.
+- Could you make sure you have Python 3.7 or above installed?
+- Could you make sure you have the latest version of pip installed?
 - Check your internet connection.
-- Make sure you have enough RAM and CPU to run the program.(It is requred for better FPS and performance of the program)
+- Make sure you have enough RAM and CPU to run the program. (It is required for better FPS and performance of the program)
