@@ -36,7 +36,7 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 
 ## Troubleshooting
 
-- If you encounter any issues with audio playback or hand tracking, ensure that your webcam and audio devices are properly connected and configured.
+- If you encounter any issues with audio playback or hand tracking, ensure that your webcam and audio devices are properly connected and configured also make sure the 'sounds' directory is in the same folder as the script (To avoid any errors).
 - Make sure that the necessary dependencies are installed, as mentioned in the "Installation" section.
 - Could you make sure you have Python 3.7 or above installed?
 - Could you make sure you have the latest version of pip installed?
