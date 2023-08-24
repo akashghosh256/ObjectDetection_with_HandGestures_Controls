@@ -19,7 +19,7 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 
 1. Clone the repository or download the main script files.
 2. Install the required dependencies as mentioned above.
-3. Repository also constains various folders which divides the project into different   parts, such as Object Detection, Hand Tracking. You can run them individually to see how they work.
+3. Repository also constains various folders which divides the project into different   parts, such as Object Detection, Hand Tracking. You can run them individually to see how they work.But to run the main project, you need to open the Main(Final) folder and run the script from there.
 4. Run the script using `python ObjectWithGesture(Main).py`.
 
 ## Features
