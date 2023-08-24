@@ -9,7 +9,11 @@ To run this project, you need to install the following dependencies:
 1. OpenCV: `pip install opencv-contrib-python`
 2. numpy: `pip install numpy`
 3. comtypes: `pip install comtypes`
-4. pycaw: `pip install pycaw`
+4. pycaw: `pip install pycaw` 
+For controlling audio volume, this project uses the `pycaw` library. You can find more information about the library and its usage on its GitHub repository: [https://github.com/AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+
+## Usage
+
 5. cvlib: `pip install cvlib`
 6. gTTS (Google Text-to-Speech): `pip install gTTS`
 7. pygame: `pip install pygame`
