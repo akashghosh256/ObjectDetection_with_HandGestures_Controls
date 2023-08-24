@@ -6,7 +6,7 @@ This project combines object detection using CVLIB and hand gesture volume contr
 
 To run this project, you need to install the following dependencies:
 
-1. OpenCV: `pip install opencv-python`
+1. OpenCV: `pip install opencv-contrib-python`
 2. numpy: `pip install numpy`
 3. comtypes: `pip install comtypes`
 4. pycaw: `pip install pycaw`
@@ -16,9 +16,9 @@ To run this project, you need to install the following dependencies:
 
 ## Usage
 
-1. Clone the repository or download the main script file.
+1. Clone the repository or download the main script files.
 2. Install the required dependencies as mentioned above.
-3. Run the script using `python main.py`.
+3. Run the script using `python ObjectWithGesture(Main).py`.
 
 ## Features
 
@@ -36,3 +36,7 @@ To run this project, you need to install the following dependencies:
 
 - If you encounter any issues with audio playback or hand tracking, ensure that your webcam and audio devices are properly connected and configured.
 - Make sure that the necessary dependencies are installed, as mentioned in the "Installation" section.
+- Make Sure you have Python 3.7 or above installed.
+- Make sure you have the latest version of pip installed.
+- Check your internet connection.
+- Make sure you have enough RAM and CPU to run the program.
