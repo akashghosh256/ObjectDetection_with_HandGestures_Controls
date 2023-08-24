@@ -41,4 +41,4 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 - Make Sure you have Python 3.7 or above installed.
 - Make sure you have the latest version of pip installed.
 - Check your internet connection.
-- Make sure you have enough RAM and CPU to run the program.
+- Make sure you have enough RAM and CPU to run the program.(It is requred for better FPS and performance of the program)
