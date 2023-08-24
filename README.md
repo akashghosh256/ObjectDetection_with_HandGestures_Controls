@@ -18,7 +18,8 @@ To run this project, you need to install the following dependencies:
 
 1. Clone the repository or download the main script files.
 2. Install the required dependencies as mentioned above.
-3. Run the script using `python ObjectWithGesture(Main).py`.
+3. Repository also constains various folders which divides the project into different   parts, such as Object Detection, Hand Tracking. You can run them individually to see how they work.
+4. Run the script using `python ObjectWithGesture(Main).py`.
 
 ## Features
 
