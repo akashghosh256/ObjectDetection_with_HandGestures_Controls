@@ -105,6 +105,9 @@ while True:
     cv.imshow("Object and Hand Gesture  Voulme Control", output_image)  # This line is added to show the object detection and hand gesture volume control in one window
 
     new_objects = set(label) - detected_objects  # Calculate new detected objects
+    # This set is used to store only the name of new objects detected, to avoid the repetitive sound of the same object again and again (which can be annoying) 
+
+    
     for obj_label in new_objects:
         print("New object detected:", obj_label)
         obj_label = "New object detected: "+obj_label
