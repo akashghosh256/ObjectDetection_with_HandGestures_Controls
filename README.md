@@ -24,8 +24,8 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 
 ## Features
 
-- Object Detection: The program uses the `cvlib` library to detect common objects in the video stream and highlights them with bounding boxes.
-- Hand Gesture Volume Control: The program uses hand tracking with the `HandTrackingModule` to detect hand gestures, allowing you to control the system's volume by moving your hand up and down.
+- Object Detection: The program uses the `cvlib` library to detect everyday objects in the video stream and highlight them with bounding boxes.
+- Hand Gesture Volume Control: The program uses hand tracking with the `HandTrackingModule` to detect hand gestures, allowing you to control the system's volume depending upon the distance between the `Thumb` and `Index finger`.
 
 ## Instructions
 
@@ -36,8 +36,8 @@ For controlling audio volume, this project uses the `pycaw` library. You can fin
 
 ## Troubleshooting
 
-- If you encounter any issues with audio playback or hand tracking, ensure that your webcam and audio devices are properly connected and configured Also make sure the `sounds`  directory is in the same folder as the script (To avoid any errors).
-- Make sure that the necessary dependencies are installed, as mentioned in the "Installation" section.
+- If you encounter any issues with audio playback or hand tracking, ensure that your webcam and audio devices are correctly connected and configured Also make sure the `sounds`  directory is in the same folder as the script (To avoid any errors).
+- Make sure the necessary dependencies are installed, as mentioned in the "Installation" section.
 - Could you make sure you have Python 3.7 or above installed?
 - Could you make sure you have the latest version of pip installed?
 - Check your internet connection.
