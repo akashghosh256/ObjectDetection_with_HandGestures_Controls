@@ -1,4 +1,5 @@
-Why OpenCV is a better choice than YOLO for this project?
+Why OpenCV is a better choice than YOLO for this project? 
+
 OpenCV and YOLO serve different purposes, and the choice between them depends on the specific requirements of your project. In 
 the context of a hand gesture-based volume control project, here's why OpenCV might be a better choice for certain aspects:
 
@@ -43,10 +44,3 @@ systems.
 In summary, OpenCV can be a better choice for a hand gesture-based volume control project if you prioritize simplicity, customization, responsiveness, 
 and resource efficiency. However, the choice ultimately depends on your specific project requirements, and you might even combine both OpenCV and 
 YOLO if needed for different aspects of your application. 
-
-
-
-
-
-
-
